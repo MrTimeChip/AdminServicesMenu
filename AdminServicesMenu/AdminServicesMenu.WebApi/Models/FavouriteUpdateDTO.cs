@@ -1,3 +1,3 @@
 namespace AdminServicesMenu.WebApi.Models;
 
-public record FavoriteDTO();
+public record FavouriteUpdateDTO();

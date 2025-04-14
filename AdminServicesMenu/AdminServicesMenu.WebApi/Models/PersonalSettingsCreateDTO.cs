@@ -1,3 +1,3 @@
 namespace AdminServicesMenu.WebApi.Models;
 
-public record PersonalSettingsDTO();
+public record PersonalSettingsCreateDTO();
